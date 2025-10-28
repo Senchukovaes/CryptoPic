@@ -113,13 +113,11 @@ def main():
                 return hashlib.sha256(arr_local.tobytes()).hexdigest()
 
             base_name = os.path.splitext(os.path.basename(args.infile))[0]
-            # if base_name.endswith("_perm"):
-            #     original_base = base_name[:-5]
-            # else:
-            #     original_base = base_name
-            # original_path = os.path.join("imgs", "original", original_base + ".png")
-
-            original_path = meta.get("original_path")
+            if base_name.endswith("_perm"):
+                original_base = base_name[:-5]
+            else:
+                original_base = base_name
+            original_path = os.path.join("imgs", "original", original_base + ".png")
 
             original_hash = get_image_pixel_hash(original_path)
             print(original_path)
