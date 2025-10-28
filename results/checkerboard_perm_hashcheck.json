@@ -1,0 +1,7 @@
+{
+  "original_file": "imgs\\original\\checkerboard.png",
+  "decrypted_file": "imgs/decrypted/checkerboard_perm.png",
+  "original_hash": "030160210071f9063ccc832bf90181ffe07bea0b2f107f75b89916ccaa9d1a61",
+  "decrypted_hash": "030160210071f9063ccc832bf90181ffe07bea0b2f107f75b89916ccaa9d1a61",
+  "is_reversible": true
+}

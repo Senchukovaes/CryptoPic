@@ -1,0 +1,7 @@
+{
+  "original_file": "imgs/original/gradient.png",
+  "decrypted_file": "imgs/decrypted/gradient_perm.png",
+  "original_hash": "b868f563ef03ffc802432c499c76a69911a004279920889d62ccad9c94dbacd8",
+  "decrypted_hash": "b868f563ef03ffc802432c499c76a69911a004279920889d62ccad9c94dbacd8",
+  "is_reversible": true
+}

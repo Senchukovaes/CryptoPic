@@ -1,0 +1,7 @@
+{
+  "original_file": "imgs\\original\\noise_texture.png",
+  "decrypted_file": "imgs/decrypted/noise_texture_perm.png",
+  "original_hash": "3b5a70259d193662c40d097b603dea60a50293ce2c051f0117332be7304d7b72",
+  "decrypted_hash": "3b5a70259d193662c40d097b603dea60a50293ce2c051f0117332be7304d7b72",
+  "is_reversible": true
+}
